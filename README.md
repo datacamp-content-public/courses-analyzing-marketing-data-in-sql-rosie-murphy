@@ -1,0 +1,1 @@
+# courses-analyzing-marketing-data-in-sql-rosie-murphy
